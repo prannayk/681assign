@@ -1,2 +1,2 @@
-# 681assign
-CS 681 assignments
+# CS681 Assignments
+No extra project files required, download and pdflatex them.
